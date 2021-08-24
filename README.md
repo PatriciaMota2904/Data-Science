@@ -7,4 +7,4 @@ Repositório para armazenar scripts sobre Data Science
 ## Projetos:
 
 * **Analisando preços das ações da Petrobrás:** https://bit.ly/2WeLR90
-* **Lidando com Classes Desbalanceadas Utilizando Machine Learning:https:** https://bit.ly/3yniBuh
+* **Lidando com Classes Desbalanceadas Utilizando Machine Learning:** https://bit.ly/3yniBuh
