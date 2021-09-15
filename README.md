@@ -8,3 +8,4 @@ Repositório para armazenar scripts sobre Data Science
 
 * **Analisando preços das ações da Petrobrás:** https://bit.ly/2WeLR90
 * **Lidando com Classes Desbalanceadas Utilizando Machine Learning:** https://bit.ly/3yniBuh
+* **Mineração de Textos - Machine Lerning para Power BI:** https://bit.ly/3hxNned
